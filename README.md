@@ -25,9 +25,9 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 - Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]
 - A **Survey** of Recent Advances in CNN-based Single Image Crowd Counting and Density
 Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
+- Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP 2017**) [[paper](http://www.scitepress.org/Papers/2017/60973/60973.pdf)]
 - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (arXiv) [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]
 - Multi-scale Convolution Neural Networks for Crowd Counting (arXiv) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]
-- Fully Convolutional Crowd Counting On Highly Congested Scenes (arXiv: 2016 - 2017) [[paper](https://arxiv.org/pdf/1612.00220)]
 
 ### 2016 
 
