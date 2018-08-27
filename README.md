@@ -31,7 +31,7 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 
 ### 2016 
 
-- End-to-end Crowd Counting via Joint Learning Local and Global Count (**ICIP2016**) [[paper](https://ieeexplore.ieee.org/document/7532551/)]]
+- End-to-end Crowd Counting via Joint Learning Local and Global Count (**ICIP2016**) [[paper](https://ieeexplore.ieee.org/document/7532551/)]
 - Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
 - Slicing Convolutional Neural Network for Crowd Video Understanding (**CVPR2016**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.pdf)] [[code](https://github.com/amandajshao/Slicing-CNN)]
 - CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**CVPR2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
